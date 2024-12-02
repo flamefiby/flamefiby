@@ -72,6 +72,10 @@
   An e-commerce platform specializing in high-quality homeware products, designed for seamless online shopping.  
   [Visit Website](https://www.shengyihomeware.com)
 
+- **Sleek Space (Website)**  
+  A professional website for a plastics company, designed to showcase its products and services with a modern and elegant interface.  
+  [Visit Website](https://www.sleek-space.com)
+
 ---
 
 Feel free to explore and connect!
