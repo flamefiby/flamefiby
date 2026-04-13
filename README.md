@@ -64,17 +64,10 @@
   A restaurant website showcasing unique culinary experiences with a focus on design and user experience.  
   [Visit Website](https://www.thebasilhouse.com)
 
-- **Hainan Noodles (Website)**  
-  A website dedicated to promoting authentic Hainanese cuisine with a sleek and informative design.  
-  [Visit Website](https://www.hainan-noodles.com)
-
 - **Shengyi Homeware (Website)**  
-  An e-commerce platform specializing in high-quality homeware products, designed for seamless online shopping.  
-  [Visit Website](https://www.shengyihomeware.com)
+  A corporate website designed to showcase and promote Shengyi Homeware’s product line, providing a clear and engaging presentation of the company’s offerings.  
+  [Visit Website](https://www.jayifay.com)
 
-- **Sleek Space (Website)**  
-  A professional website for a plastics company, designed to showcase its products and services with a modern and elegant interface.  
-  [Visit Website](https://www.sleek-space.com)
 
 ---
 
