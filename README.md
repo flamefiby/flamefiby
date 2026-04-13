@@ -68,6 +68,10 @@
   A corporate website designed to showcase and promote Shengyi Homeware’s product line, providing a clear and engaging presentation of the company’s offerings.  
   [Visit Website](https://www.jayifay.com)
 
+- **Gracious Home(Website)**  
+ A corporate website built to display furniture offerings and support end-to-end online rental workflows, allowing customers to browse, select, and place rental orders with ease. 
+  [Visit Website](https://www.gracioushome.ca)
+  
 
 ---
 
