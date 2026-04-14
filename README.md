@@ -70,7 +70,6 @@
 
 - **Gracious Home(Website)**  
  A corporate website built to display furniture offerings and support end-to-end online rental workflows, allowing customers to browse, select, and place rental orders with ease.
-
   [Visit Website](https://www.gracioushome.ca)
   
 
